@@ -1,14 +1,14 @@
-layout_spectrum: 0.3368907356634736
-typography_spectrum: 0.1201520434115082
 color:
-  brandStrength: 0.3558072147425264
-  lightness: 0.18717450788244605
-  saturation: 0.6703441627323627
-  rhythmicContrast: 0.17102443310432136
   brandColors:
     - '#B8ECD7'
     - '#083643'
     - '#B1E001'
     - '#CEF09D'
     - '#476C5E'
+  brandStrength: 0.544764
+  lightness: 0.376689
+  rhythmicContrast: 0.327703
+  saturation: 0.670344
+layout_spectrum: 0.858953
 name: 'ATeam Singapore '
+typography_spectrum: 0.381757
